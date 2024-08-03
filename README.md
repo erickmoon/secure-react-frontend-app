@@ -1,6 +1,6 @@
 # React Todo App
 
-This project is a React-based ToDo application that interacts with an [Express backend API](https://github.com/erickmoon/Simple-Secure-Node.js-API-for-a-todo-list-app). It includes user authentication, task management, and logging capabilities to help you manage your tasks effectively.
+This project is a React-based ToDo application that interacts with a [Node.js Express backend API](https://github.com/erickmoon/Simple-Secure-Node.js-API-for-a-todo-list-app). It includes user authentication, task management, and logging capabilities to help you manage your tasks effectively.
 
 ## Table of Contents
 
